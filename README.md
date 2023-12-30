@@ -12,6 +12,7 @@ pip install "picamera[array]"
 pip install --upgrade pip
 7. Install openCV with:
 pip install opencv-python
+8. Enable Legacy camera support in Interfaces using command: sudo raspi-config.
 
 
 Starting the project requires loading libatomic library. 
